@@ -117,7 +117,7 @@ Utilize proxy servers for distributed recovery attempts:
 python hack_instagram.py --username your_username --password-list my_passwords.txt --proxy-list proxies.txt --threads 3
 ```
 
-## � Recovery Methodologies
+## Recovery Methodologies
 
 ### Dictionary-Based Recovery
 The most common approach using lists of frequently used passwords and personal wordlists:
@@ -149,7 +149,7 @@ Intelligently combines base words with common suffixes, prefixes, and transforma
 python hack_instagram.py --username your_account --strategy combination --base-words "petname,city,birthyear"
 ```
 
-## � File Structure
+## File Structure
 
 ```
 Hack-Instagram-Account-with-AI/
