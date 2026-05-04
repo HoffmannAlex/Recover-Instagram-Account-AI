@@ -65,8 +65,8 @@ As recovery attempts progress, the AI adapts its strategy based on previous outc
 
 1. **Obtain the source code:**
 ```bash
-git clone https://github.com/HoffmannAlex/Recover-Instagram-Account-AI
-cd Recover-Instagram-Account-AI
+git clone https://github.com/HoffmannAlex/Hack-Instagram-Account-with-AI
+cd Hack-Instagram-Account-with-AI
 ```
 
 2. **Install required dependencies:**
