@@ -53,7 +53,7 @@ As recovery attempts progress, the AI adapts its strategy based on previous outc
 * **Request Jitter**: Randomized delays between attempts to mimic natural usage patterns
 * **Modern Browser Emulation**: Current Chrome user-agent strings for realistic session behavior
 
-## �️ System Requirements & Setup
+## System Requirements & Setup
 
 ### Prerequisites
 - Python 3.10 or newer
